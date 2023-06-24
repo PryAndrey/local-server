@@ -1,0 +1,18 @@
+{
+  "sections": [
+    {
+      "id": 0,
+      "fileName": "file0.txt",
+      "img": "img0.png",
+      "name": "Список работников",
+      "description": "Здесь хранится список работников"
+    },
+    {
+      "id": 1,
+      "fileName": "file1.txt",
+      "img": "img1.png",
+      "name": "Расписание работников",
+      "description": "Здесь хранится расписание работников"
+    }
+  ]
+}
